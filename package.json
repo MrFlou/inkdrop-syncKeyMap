@@ -1,7 +1,7 @@
 {
   "name": "sync-keymap",
   "main": "./lib/sync-keymap",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sync hotkeys with a note for ease of syncing between instances.",
   "keywords": [],
   "repository": "https://github.com/MrFlou/inkdrop-syncKeyMap",
