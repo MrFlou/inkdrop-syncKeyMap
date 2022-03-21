@@ -9,7 +9,7 @@ Important create a copy of your keymap before making a note called KeyMap
 3. Paste content of the old keymap.cson and watch the plugin do its work
 
 ##### example of note
-![Example.png](https://raw.githubusercontent.com/MrFlou/inkdrop-syncKeyMap/docs/Example.png)
+![Example.png](https://raw.githubusercontent.com/MrFlou/inkdrop-syncKeyMap/master/docs/Example.png)
 
 After this you can just edit the note and it will be saved to the Keymap.cson
 
