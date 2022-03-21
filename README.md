@@ -21,4 +21,4 @@ ipm install sync-keymap
 
 #### Version History:
 ###### **0.1.0**: First version! 18/03/2022
-###### **0.2.0**: Linux version now working.
+###### **0.3.0**: Linux version now working.
